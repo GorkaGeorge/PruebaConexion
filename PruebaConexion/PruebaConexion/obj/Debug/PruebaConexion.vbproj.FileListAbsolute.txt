@@ -1,0 +1,10 @@
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\bin\Debug\PruebaConexion.exe.config
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.exe
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.xml
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.pdb
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\bin\Debug\PruebaConexion.exe
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\bin\Debug\PruebaConexion.pdb
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\bin\Debug\PruebaConexion.xml
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\obj\Debug\koko.Form2.resources
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\obj\Debug\koko.Resources.resources
+C:\Users\Gorka\Documents\Visual Studio 2005\Projects\PruebaConexion\PruebaConexion\obj\Debug\PruebaConexion.vbproj.GenerateResource.Cache
